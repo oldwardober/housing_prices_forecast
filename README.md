@@ -1,1 +1,1 @@
-# housing_prices_forecast
+The aim of this project was to analyze whether immigration from Ukraine might have significant impact on the housing prices in Poland. I performed simulations of two scenarios: base (factual) and contrfactual (lack of immigration) using simple ADL model. Data source: https://dbw.stat.gov.pl/. 
